@@ -1,2 +1,2 @@
-# cryptographyNnetworkSsecurity
+# cryptographyNnetworkSecurity
 Cryptography and network security
